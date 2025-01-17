@@ -9,7 +9,7 @@
       controller: true
       kind: GitopsService
       name: cluster
-      uid: dc168dc1-6174-4add-a3e9-b5ea401799bc
+      uid: 1e45d9ec-1cc5-423c-aea3-f386537fb8b8
   spec:
     applicationSet:
       resources:
